@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm byhankim</h1>
 <h3 align="center">😇👍</h3>
 
-- 🌱 I’m currently learning **Android, React & React Native**
+- 🌱 I’m currently learning **Android & React**
 
 
 <h3 align="left">Languages and Tools:</h3>
