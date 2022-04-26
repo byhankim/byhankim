@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm byhankim</h1>
 <h3 align="center">😇👍</h3>
 
-- 🌱 Highly interested in **Android** and also in **React**.
+- 🌱 Highly interested in **Android** and also in **frontend** development.
 
 
 <h3 align="left">Languages and Tools:</h3>
