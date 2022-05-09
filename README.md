@@ -2,6 +2,7 @@
 <h3 align="center">😇👍</h3>
 
 - 🌱 Highly interested in **Android** and also in **frontend** development.
+![umcondo's github stats](https://github-readme-stats.vercel.app/api?username=umcondo&show_icons=true&theme=merko)
 
 
 <h3 align="left">Languages and Tools:</h3>
